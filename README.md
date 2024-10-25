@@ -1,5 +1,7 @@
 # cesium-procedural-foliage
 
+![Banner](https://raw.githubusercontent.com/SquarerFive/SquarerFive/refs/heads/master/rect9550.png)
+
 This is an example project based on the tutorial: https://cesium.com/learn/unreal/unreal-procedural-foliage/ .
 
 ## Requirements:
